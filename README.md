@@ -1,2 +1,3 @@
-# ContadorDeVidaMtg
-um exercicio de um app para contagem de pontos do jogo magic the gathering
+# Contador de vida
+
+um app para contagem de pontos de um jogo.
