@@ -1,3 +1,3 @@
 # Contador de vida
 
-um app para contagem de pontos de um jogo.
+um app react para contagem de pontos de um jogo.
